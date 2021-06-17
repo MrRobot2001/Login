@@ -1,0 +1,12 @@
+.delete{
+    outline: none;
+        border: none;
+        background: red;
+        color: white;
+        cursor: pointer;
+        z-index: 2;
+        margin-top: -4px;
+        margin-left: 10px;
+        padding: 4px 10px;
+        font-size: 1.2rem;
+    }
